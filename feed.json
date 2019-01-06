@@ -1,0 +1,48 @@
+{
+    "title": "MatataLab Playgrounds",
+    "subtitle": "Play with MatataBot to learn Swift.",
+    "publisherName": "MATATALAB CO.,LTD.",
+    "feedIdentifier": "io.github.matatalab",
+    "contactURL": "https://www.matatalab.com/playgroundbook",
+    "formatVersion": "1.2",
+    "documents":
+    [
+        {
+            "title": "MatataLab",
+            "overviewSubtitle": "Swift 4.2 Edition",
+            "detailSubtitle": "Play with MatataBot to learn Swift code.",
+            "description": "In this playgroundbook, you can call every function which supported by MatataBot and combine them to join MatataBot's adventure , like singing, drawing or get out of the maze. Use your imagination, and enjoy your adventure with MatataBot in the Playgrounds!",
+            "difficultyLevel": "beginner",
+            "contentIdentifier": "io.github.matatalab.matatabook",
+            "contentVersion": "1.0",
+            "url": "MatataLab/MatataLab.playgroundbook.zip",
+            "thumbnailURL": "MatataLab/thumbnail.png",
+            "bannerImageURL": "MatataLab/banner.png",
+            "publishedDate": "2019-01-06T15:48:57+00:00",
+            "lastUpdatedDate": "2019-01-06T15:50:57+00:00",
+            "additionalInformation":
+            [
+                {
+                    "name": "Publisher",
+                    "value": "MATATALAB CO.,LTD."
+                },
+                {
+                    "name": "Version",
+                    "value": "1.0.0"
+                },                {
+                    "name": "Edition",
+                    "value": "Swift 4.2 Edition"
+                },
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs":
+            [
+                "MatataLab/preview-1.png",
+                "MatataLab/preview-2.png"
+            ]
+        }
+    ]
+}
